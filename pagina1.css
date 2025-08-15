@@ -1,0 +1,22 @@
+body{
+    background-color: cadetblue;
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+
+}
+
+header{
+    border: 1px solid;
+    height: 600px;
+    background-image: url(baner.png);
+    background-size: cover;
+
+}
+
+h1{
+    color: azure;
+    align-items: center;
+    margin: auto;
+    margin-top: 1%;
+}
